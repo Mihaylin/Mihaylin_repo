@@ -1,7 +1,9 @@
-print ("Hello world!");
+print ("Hello world!");!!!
 
 
-Nice;
+Nice;!!!
 
 print("Hello my dear friend!");
 print ("for merge");
+
+
