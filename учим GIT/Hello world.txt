@@ -1,4 +1,7 @@
 print ("Hello world!");
 
+
 Nice;
+
 print("Hello my dear friend!");
+print ("for merge");
